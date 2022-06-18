@@ -10,6 +10,7 @@ So there are five columns in the dataset, datesold, postcode, price, propertyTyp
 The dataset covers from 7th Feb 2007 to 27 Jul 2019 with 29580 records.
 
 **Questions generated from the dataset**
+
 So which date has the most frequent sales?
 
 Which postcode has the highest average price per sales?
